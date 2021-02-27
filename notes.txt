@@ -1,0 +1,25 @@
+## 
+
+Creating a repository of Indianapolis data
+
+Sources:
+
+Governmental:
+
+American Community Survey
+Decennial Census
+Indiana.gov data
+Municipality Data?
+
+Online sources:
+
+Google trends data
+Amazon data
+Apple data
+
+Structure:
+
+Python data grabbing
+Input into SQL lite database
+
+Reporting: SQL --> python via sqlite package 
