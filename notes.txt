@@ -1,3 +1,34 @@
+
+## 5/30
+
+I do want to use SQL with this project. Practice with this tool that I have less experience with.
+
+So, I need to pull data into python then put into SQL
+
+I think the git integration should be as follows:
+I should pull all of the data with python & store it as csv files
+& I should include the scripts I use to throw it into SQL
+So, I will use & practice with a local SQL database & provide all the scripts to create said database
+
+So, there should be a unified script to create the entire database in a single script run
+
+Options:
+Single unified script to create database
+&
+Add any singular data pull
+
+
+### Data Analysis
+
+Outside of the data pulls & storage I want to visualize the data
+Could do in both python & leaflet
+Also want to do some sort of data analysis over time stuff
+
+So, I would need to create notebooks where I pull data in from mysql server, manipulate & produce reports
+
+
+
+
 ## 
 
 Creating a repository of Indianapolis data
